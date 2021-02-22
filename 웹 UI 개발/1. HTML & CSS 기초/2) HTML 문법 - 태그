@@ -1,0 +1,57 @@
+* 핵심 키워드
+
+태그  ( TAG )
+시작 태그 ( 여는 태그 )
+종료 태그 ( 닫는 태그 ) 
+내용 ( Content )
+요소 ( Element )
+
+
+- 태그란?
+
+HTML은 태그들의 집합이며, 태그는 HTML에서 가장 중요하고 기본이 되는 규칙입니다.
+태그는 '무언가를 표시하기 위한 꼬리표, 이름표'라는 의미가 있으며, HTML에서도 이와 비슷한 의미로 해석됩니다.
+우리가 다양한 태그들을 이용해 코드를 작성하면, 브라우저가 이를 인식해 내용을 표현하게 됩니다.
+
+
+- 태그를 사용하는 방법
+
+태그는 <, > 기호로 표현하며 <, > 기호 사이에 태그 이름이 들어갑니다.
+대부분 태그는 시작 태그와 종료 태그로 이루어지며 종료 태그는 태그 이름 앞에 '/' 기호가 붙습니다.
+시작 태그와 종료 태그 사이에 실제 화면에 나타나는 내용이 위치하게 됩니다. 
+
+<h1>Hello, HTML</h1>
+ 위는 태그의 가장 기본적인 예로, <h1>을 사용해 'Hello, HTML'을 출력하는 코드입니다.
+
+
+- 요소란? 
+
+내용을 포함한 태그 전체를 요소(Element)라고 합니다.
+태그와 요소는 의미가 다르지만 많은 사람이 태그와 요소를 같은 의미로 사용하니 혼동하지 않도록 주의해야 합니다.
+
+ 
+- 정리 
+
+HTML에는 많은 종류의 태그들이 있습니다.
+
+태그는 각각의 의미가 있으며 이 의미에 맞게 태그를 사용해야 합니다.
+
+또한, 태그는 HTML뿐만 아니라 XML, SGML, XHTML 등 다양한 마크업 언어에서 모두 사용됩니다.
+
+ 
+<참고 자료>
+ 
+HTML
+https://developer.mozilla.org
+
+HTML(HyperText Markup Language)은 웹을 이루는 가장 기초적인 구성 요소입니다. HTML은 웹 페이지의 내용 을 서술하고 정의하는 데 사용됩니다. HTML 외에 웹 페이지의 모양과 표현을 서술하거나( CSS ), 웹 페이지의 기능과 동작을 서술하는( JavaScript ) 기술들도 있습니다.
+ 
+HTML 요소 레퍼런스
+https://developer.mozilla.org
+
+이 페이지는 모든 HTML elements 들을 나열합니다.
+HTML Reference
+https://www.w3schools.com
+Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, and XML.
+
+#HTML문법 #TAG #마크업언어 #시작태그 #요소 #종료태그 #태그
